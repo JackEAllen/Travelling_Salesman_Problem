@@ -1,7 +1,6 @@
 # Travelling Salesman Problem
 Repository containing work completed as part of final year module; Theoretical Aspects of Computer Science
 
-PLEASE SEE ASSIGNMENT BRIEF TO UNDERSTAND CONTEXT OF REPOSITORY
 
 ### Members
 | Name          								|
